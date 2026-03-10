@@ -39,5 +39,6 @@ El flujo se estructura en cuatro capas de procesamiento auditadas:
 * `Allura_Telecom_Proy_VF.ipynb`: Pipeline técnico completo y auditado.
 * `modelo_champion_telecom_vf.pkl`: Activo (binario) final para integración B2B.
 * `Presentacion_Ejecutiva_Churn_Benavides.pdf`: Informe de impacto y estrategias de negocio.
+* * `Telecom_Processed_Data.csv`: Data Set.
 
 
